@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653312206 source:h:\codes\project - with - c\razuan project\rezuan_c++\main.cpp
+	<iostream>
+	<curl/curl.h>
+
